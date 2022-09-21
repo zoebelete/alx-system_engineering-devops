@@ -1,6 +1,7 @@
-# 0x14-mysql
+# 0x14. MySQL
 
-## Install mysql
+In this project, I learned about:
+- What is the main role of databases and db replica
+- What is a database replica and how to create one
 
-`sudo apt-get install mysql-server mysql-client`
 
